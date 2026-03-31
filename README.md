@@ -1,4 +1,4 @@
-# Olá, eu sou a Ivanir Carvalho! 👋
+# Olá, eu sou a Ivanir Carvalho! 
 
 Sou uma **Desenvolvedora Full Stack** em transição de carreira, trazendo comigo a bagagem de **Técnica em Segurança do Trabalho**. Minha missão agora é construir aplicações seguras, eficientes e de alta qualidade.
 
