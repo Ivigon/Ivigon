@@ -17,5 +17,5 @@ Atualmente, estou imersa no ecossistema Full Stack (JavaScript/TypeScript), foca
 
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://(www.linkedin.com/in/ivanir-carvalho-165208174))
+[![LinkedIn](https://(www.linkedin.com/in/ivanir-carvalho-165208174)
 
