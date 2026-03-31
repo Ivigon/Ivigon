@@ -1,16 +1,21 @@
-# Olá, eu sou a Ivanir Carvalho! 
+# Olá, eu sou Ivi Gonçalves! 
 
-Sou uma **Desenvolvedora Full Stack** em transição de carreira, trazendo comigo a bagagem de **Técnica em Segurança do Trabalho**. Minha missão agora é construir aplicações seguras, eficientes e de alta qualidade.
+Sou uma **Desenvolvedora Full Stack** em transição de carreira, unindo minha experiência anterior em **Segurança do Trabalho** com o desenvolvimento de aplicações modernas, seguras e eficientes.
 
-### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** JavaScript, TypeScript
-- **Back-end:** Node.js
-- **Front-end:** React
-- **Versão:** Git & GitHub
+### 🛠 Tecnologias e Ferramentas
 
-### 📈 Meu Objetivo
-Atualmente, estou focada em aprofundar meus conhecimentos no ecossistema JavaScript e em busca da minha primeira oportunidade como Desenvolvedora Júnior.
+* **Linguagens:** JavaScript, TypeScript
+* **Front-end:** React, Next.js, HTML5, CSS3, Tailwind CSS
+* **Back-end:** Node.js, Express, Prisma ORM
+* **Banco de Dados:** MySQL, MongoDB
+* **Infra & DevOps:** Docker, Git, GitHub, APIs REST
+* **Design/Layout:** FlexBox, Grid
 
----
-📫 **Como me encontrar:**
-[Meu LinkedIn](www.linkedin.com/in/ivanir-carvalho-165208174)
+### 🚀 Meu Objetivo
+
+Atualmente, estou imersa no ecossistema Full Stack (JavaScript/TypeScript), focada em construir projetos que resolvam problemas reais. Busco minha primeira oportunidade como **Desenvolvedora Júnior** para aplicar meus conhecimentos técnicos e minha visão analítica de processos.
+
+
+### 📫 Como me encontrar:
+[![LinkedIn](https://(www.linkedin.com/in/ivanir-carvalho-165208174))
+
