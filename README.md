@@ -1,21 +1,18 @@
-# Olá, eu sou Ivi Gonçalves! 
+# Olá, eu sou a Ivi! 👋
 
-Sou uma **Desenvolvedora Full Stack** em transição de carreira, unindo minha experiência anterior em **Segurança do Trabalho** com o desenvolvimento de aplicações modernas, seguras e eficientes.
+![Banner](https://capsule-render.vercel.app/render?type=waving&color=7b2cbf&height=200&section=header&text=Bem-vinda%20ao%20meu%20perfil!&fontSize=50)
 
-### 🛠 Tecnologias e Ferramentas
+### 🚀 Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul Virtual.
+- 💻 Focada no ecossistema **JavaScript**, estudando Node.js, TypeScript e React.
+- 🎯 Buscando aprender lógica de programação e novas ferramentas todos os dias.
 
-* **Linguagens:** JavaScript, TypeScript
-* **Front-end:** React, Next.js, HTML5, CSS3, Tailwind CSS
-* **Back-end:** Node.js, Express, Prisma ORM
-* **Banco de Dados:** MySQL, MongoDB
-* **Infra & DevOps:** Docker, Git, GitHub, APIs REST
-* **Design/Layout:** FlexBox, Grid
+### 🛠️ Tecnologias que estou aprendendo:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🚀 Meu Objetivo
-
-Atualmente, estou imersa no ecossistema Full Stack (JavaScript/TypeScript), focada em construir projetos que resolvam problemas reais. Busco minha primeira oportunidade como **Desenvolvedora Júnior** para aplicar meus conhecimentos técnicos e minha visão analítica de processos.
-
-
-### 📫 Como me encontrar:
+### 📫 Vamos nos conectar?
 (https://www.linkedin.com/in/ivanir-carvalho-165208174)
 
