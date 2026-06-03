@@ -1,5 +1,3 @@
-# 
-
 <!-- BANNER WELCOME COM ONDAS ANIMADAS -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=WELCOME!&fontSize=50&fontAlignY=35&animation=fadeIn" width="100%" alt="Banner Animado" />
@@ -17,6 +15,11 @@
 
 <!-- BADGES CORRIGIDOS (SEM ESPAÇO) -->
 <p align="center"><a href="https://www.linkedin.com/in/ivanir-carvalho-165208174/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><img src="https://img.shields.io/badge/Focus-Full%20Stack-00F5FF?style=for-the-badge" alt="Focus" /><img src="https://img.shields.io/badge/Status-Graduanda%20ADS-7B2FF7?style=for-the-badge" alt="Status" /></p>
+
+---
+
+### 🚀 Sobre Mim
+**Desenvolvedora Full Stack em transição de carreira.** Trago a precisão, a mitigação de riscos e o rigor com processos da minha experiência como Técnica em Segurança do Trabalho para a área de tecnologia. Meu foco atual é projetar e construir aplicações seguras, escaláveis e eficientes, unindo uma visão analítica sólida com as melhores práticas de desenvolvimento.
 
 ---
 
